@@ -13,11 +13,13 @@ The analytical approach documented <a href="https://github.com/CITESmike2020/MIK
 
 ### Current Reports
 
-## To be updated with new report 2003-2023
+## To be updated with new report 2003-2024
 
-This GitHub repository includes the code to generate the PIKE trend analysis for 2003-2023. The findings of the analysis are reported in 2023, SC77 Doc. 63.1 (page 14). <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01.pdf"> Click here to view the doucument.</a> 
+This GitHub repository includes the code to generate the PIKE trend analysis for 2003-2024. The findings of the analysis are reported in 2025, SC77 Doc. 63.1 (page 14). <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01.pdf"> Click here to view the doucument.</a> 
 
 ### Previous Reports
+The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2023</i>, released by the CITES Secretariat in December 2024. <a href="https://cites.org/sites/default/files/documents/E-SC78-65-01.pdf"> Click here to see the report.</a> 
+
 The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in September 2023. <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01-R2_0.pdf"> Click here to see the report.</a> 
 
 The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>REPORT ON MONITORING THE ILLEGAL KILLING OF ELEPHANTS (MIKE)</i>, released by the CITES Secretariat in June 2022. <a href="https://cites.org/sites/default/files/documents/COP/19/agenda/E-CoP19-66-05.pdf"> Click here to see the report.</a>
@@ -34,6 +36,7 @@ The table below provides web page links to technical materials and R code used f
 
 | Date       | GitHub Repository Name                      | Content                                                                                         | Repository Web Page Link                         |
 |------------|---------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| May 2025   | CITESmike2024/GLMM-2025-unweighted-model    | PIKE TREND ANALYSIS (2003-2024) USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted model) | [https://github.com/citesmike-code/GLMM-2025-unweighted-model](https://github.com/citesmike-code/GLMM-2025-unweighted-model) |
 | Sept 2024  | CITESmike2023/GLMM-2024-unweighted-model    | PIKE TREND ANALYSIS (2003-2023) USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted model) | [https://github.com/citesmike-code/GLMM-2024-unweighted-model](https://github.com/citesmike-code/GLMM-2024-unweighted-model) |
 | Sept 2023  | CITESmike2023/GLMM-2023-unweighted-model    | PIKE TREND ANALYSIS (2003-2022) USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted model) | [https://github.com/CITESmike2020/GLMM-2023-unweighted-model](https://github.com/CITESmike2020/GLMM-2023-unweighted-model) |
 | June 2022  | CITESmike2020/GLMM-2022-unweighted-model    | PIKE ANALYSIS FOR THE DURATION 2003-2021 (UNWEIGHTED MODEL)                                  | [https://github.com/CITESmike2020/GLMM-2022-unweighted-model](https://github.com/CITESmike2020/GLMM-2022-unweighted-model) |
