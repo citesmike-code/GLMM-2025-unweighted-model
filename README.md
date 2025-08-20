@@ -67,8 +67,8 @@ There are several directories in this repository
 
 - Code. This contains the .Rmd files and associated functions for fitting and analysing the MIKE data.
 The key documents are the 
-  * Africa.technical.update-2022.Rmd
-  * Asia.technical.update-2022.Rmd
+  * report.africa.technical.update.Rmd
+  * report.asia.technical.update.Rmd
 files.   
 These load the 
   * *fitting-functions-R* files that contain functions for the analysis
