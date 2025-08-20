@@ -13,7 +13,7 @@ The analytical approach documented <a href="https://github.com/CITESmike2020/MIK
 
 ### Current Reports
 
-## To be updated with new report 2003-2024
+## New report 2003-2024
 
 This GitHub repository includes the code to generate the PIKE trend analysis for 2003-2024. The findings of the analysis reported in 2025, COP20 Doc. 76.4 (page 14). <a href="https://cites.org/sites/default/files/documents/E-CoP20-076-04.pdf"> Click here to view the doucument.</a> 
 
